@@ -1,0 +1,9 @@
+"for" dan "while" adalah dua jenis perulangan dalam Python. Perbedaannya adalah:
+
+"for" digunakan untuk melakukan perulangan sebanyak jumlah spesifik terhadap suatu objek (misalnya list), sedangkan "while" digunakan untuk melakukan perulangan selama kondisi tertentu benar.
+
+"for" memiliki blok perintah yang dieksekusi untuk setiap item dalam objek, sedangkan "while" memiliki blok perintah yang dieksekusi selama kondisi benar.
+
+Dalam "for", penghitungan item dilakukan secara otomatis, sedangkan dalam "while", penghitungan harus dilakukan secara manual.
+
+"for" lebih cocok digunakan ketika jumlah iterasi yang pasti, sedangkan "while" lebih cocok digunakan ketika jumlah iterasi tidak pasti.
