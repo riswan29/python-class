@@ -2,13 +2,13 @@
 # # nama = "riswan"
 # # print(len(nama))
 
-# ker_tinggi = input("masukkan semua tinggi mahasiswa : ").split(',')
+ker_tinggi = input("masukkan semua tinggi mahasiswa : ").split(',')
 
 # # # mengubaha tipe data ke integer
 
-# # for tinggi in range(0, len(ker_tinggi)):
-# #     ker_tinggi[tinggi] = int(ker_tinggi[tinggi])
-# print(type(ker_tinggi))
+for tinggi in range(0, len(ker_tinggi)):
+    ker_tinggi[tinggi] = int(ker_tinggi[tinggi])
+print(ker_tinggi)
 
 # # ker_tinggi = [170,160,175,189,180]
 # # menghitung jumlah total dari si ker_tinggi
@@ -39,4 +39,3 @@
 
 
 # # pi = 3.1465324
-
