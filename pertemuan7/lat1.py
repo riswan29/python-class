@@ -12,4 +12,3 @@ def total_cat(panjang, lebar, jlh_cat):
     t_cat = ceil(luas / jlh_cat)
     print(t_cat)
 total_cat(panjang=pjg, lebar=lbr, jlh_cat=cat)
-
